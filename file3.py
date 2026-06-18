@@ -1,1 +1,1 @@
-print("Amity University")
+print("Welcome to Amity University")
